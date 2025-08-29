@@ -10,7 +10,7 @@ and references to the original emails for traceability.
 |----|-----------------------|------------------------------------|-------------------------------------------------------------|-------------|---------------------------|--------|---------------------------|
 | 1  | Flooring              | Ground Floor – Lounge              | Stress crack in lounge corner tile, grout color incorrect   | 27-Aug-2025 | Open                      | Medium | [View Details](#issue-1)  |
 | 2  | Flooring              | First Floor – Landing / Balcony    | Balustrade panel missing, inconsistent floor finish         | 24-Jul-2025 | Open                      | High   | [View Details](#issue-2)  |
-| 3  | Plumbing              | First Floor – Bathrooms / Ensuites | Slow toilet refill, bidet steel poles unclear               | 27-Aug-2025 | Open                      | Medium | [View Details](#issue-3)  |
+| 3  | Plumbing              | First Floor – Bathrooms / Ensuites | Slow toilet refill, bidet steel poles unclear               | 27-Aug-2025 | Resolved                  | Medium | [View Details](#issue-3)  |
 | 4  | Tiling                | Various                            | Chipped/damaged tiles, lack of spare tiles                  | ~Aug-2025   | Partially Resolved        | Low    | [View Details](#issue-4)  |
 | 5  | Tiling/Drainage       | Garage                             | Incorrect garage floor gradient                             | ~Aug-2025   | Open (Workaround)         | Medium | [View Details](#issue-5)  |
 | 6  | External Finishing    | Fence Posts                        | Improper fence post caps                                    | ~Aug-2025   | Resolved by User          | Low    | [View Details](#issue-6)  |
@@ -25,46 +25,46 @@ and references to the original emails for traceability.
 | 15 | Finishing             | Downstairs Toilet                  | Paint touch-up needed                                       | ~Aug-2025   | Open                      | Low    | [View Details](#issue-15) |
 | 16 | Kitchen               | Kitchen                            | Wine cooler installation issues                             | ~Aug-2025   | Resolved by User          | Low    | [View Details](#issue-16) |
 | 17 | Heating               | Garage                             | Garage radiators performance                                | 24-Jul-2025 | Resolved                  | Low    | [View Details](#issue-17) |
-| 18 | Heating               | External                           | Heat pump leak/runoff issues                                | 24-Jul-2025 | Open (Solution Proposed)  | Medium | [View Details](#issue-18) |
-| 19 | Electrical            | Fireplace                          | Fireplace mood light interface query                        | ~Jul-2025   | Open                      | Low    | [View Details](#issue-19) |
+| 18 | Heating               | External                           | Heat pump leak/runoff issues                                | 24-Jul-2025 | Partially Resolved        | Medium | [View Details](#issue-18) |
+| 19 | Electrical            | Fireplace                          | Fireplace mood light interface query                        | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-19) |
 | 20 | Joinery               | Kitchen                            | Double doors rubbing                                        | ~Jul-2025   | Open                      | Low    | [View Details](#issue-20) |
-| 21 | Plumbing              | Top Bathroom                       | Loose toilet flush panel                                    | ~Jul-2025   | Open                      | Low    | [View Details](#issue-21) |
+| 21 | Plumbing              | Top Bathroom                       | Loose toilet flush panel                                    | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-21) |
 | 22 | Plumbing              | Kitchen                            | Hot water tap behavior                                      | ~Jul-2025   | Resolved (Per Design)     | Low    | [View Details](#issue-22) |
-| 23 | Electrical            | Utility Room                       | Missing O-ring on outdoor light                             | ~Jul-2025   | Open                      | Low    | [View Details](#issue-23) |
-| 24 | Tiling                | Main Bathroom                      | Damaged tile behind radiator                                | ~Jul-2025   | Open                      | Low    | [View Details](#issue-24) |
-| 25 | Finishing             | Garage                             | Protruding nail/screw in wall                               | ~Jul-2025   | Open                      | Low    | [View Details](#issue-25) |
+| 23 | Electrical            | Utility Room                       | Missing O-ring on outdoor light                             | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-23) |
+| 24 | Tiling                | Main Bathroom                      | Damaged tile behind radiator                                | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-24) |
+| 25 | Finishing             | Garage                             | Protruding nail/screw in wall                               | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-25) |
 | 26 | Electrical            | Garage                             | Incorrectly drilled ceiling holes                           | ~Jul-2025   | Open                      | Low    | [View Details](#issue-26) |
-| 27 | Ventilation           | Master Ensuite                     | Loud Xpelair unit                                           | ~Jul-2025   | Open                      | Medium | [View Details](#issue-27) |
+| 27 | Ventilation           | Master Ensuite                     | Loud Xpelair unit                                           | ~Jul-2025   | Resolved                  | Medium | [View Details](#issue-27) |
 | 28 | Plumbing              | Ensuites                           | Shower drainage issues                                      | ~Jul-2025   | Resolved by User          | Medium | [View Details](#issue-28) |
-| 29 | Heating               | Garage                             | Loose garage thermostat                                     | ~Jul-2025   | Open                      | Low    | [View Details](#issue-29) |
+| 29 | Heating               | Garage                             | Loose garage thermostat                                     | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-29) |
 | 30 | Cleaning/External     | Rear Windows/Doors                 | Sand in window seals                                        | ~Jul-2025   | Open                      | Medium | [View Details](#issue-30) |
 | 31 | Plumbing              | Toilets                            | Rocking toilet seats                                        | ~Jul-2025   | Open                      | Medium | [View Details](#issue-31) |
 | 32 | Flooring              | Master Bedroom                     | Crack in floor                                              | ~Jul-2025   | Open                      | Medium | [View Details](#issue-32) |
 | 33 | Electrical            | Bathrooms                          | Inconsistent blanking plates                                | ~Jul-2025   | Open                      | Low    | [View Details](#issue-33) |
-| 34 | Plumbing              | Lower Floors                       | Unfinished toilet flush mechanisms                          | ~Jul-2025   | Open                      | Low    | [View Details](#issue-34) |
-| 35 | Electrical/Structural | Front Room                         | TV mount advice needed                                      | ~Jul-2025   | Open                      | Low    | [View Details](#issue-35) |
+| 34 | Plumbing              | Lower Floors                       | Unfinished toilet flush mechanisms                          | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-34) |
+| 35 | Electrical/Structural | Front Room                         | TV mount advice needed                                      | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-35) |
 | 36 | Cleaning/External     | Stone Edges                        | Sand piles around house                                     | ~Jul-2025   | Open                      | Low    | [View Details](#issue-36) |
-| 37 | Cleaning              | Balcony                            | Balcony floor sand                                          | ~Jul-2025   | Open                      | Low    | [View Details](#issue-37) |
+| 37 | Cleaning              | Balcony                            | Balcony floor sand                                          | ~Jul-2025   | Resolved                  | Low    | [View Details](#issue-37) |
 | 38 | Joinery               | Rear Garage Door                   | Missing edge on back door sill                              | ~Jul-2025   | Open                      | Low    | [View Details](#issue-38) |
 | 39 | External Finishing    | External Stonework                 | Stonework damage from jet washing                           | 07-Jul-2025 | Open                      | High   | [View Details](#issue-39) |
-| 40 | External              | Utility Door                       | Water ingress at utility door                               | 14-Jul-2025 | Open                      | High   | [View Details](#issue-40) |
-| 41 | Electrical            | External                           | Moisture in outdoor lights                                  | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-41) |
-| 42 | Heating               | Heat Pump                          | Sand/water ingress in heat pump                             | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-42) |
-| 43 | Cleaning              | Paving/Stone Joints                | Debris/sand build-up                                        | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-43) |
-| 44 | Landscaping           | Rear Garden                        | Unfinished bottom garden                                    | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-44) |
-| 45 | Landscaping           | Side of House                      | Un-grassed area                                             | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-45) |
-| 46 | External              | Stream Fence                       | Missing fence capping                                       | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-46) |
-| 47 | External              | Rear Fence                         | Incomplete back garden fencing                              | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-47) |
+| 40 | External              | Utility Door                       | Water ingress at utility door                               | 14-Jul-2025 | Resolved                  | High   | [View Details](#issue-40) |
+| 41 | Electrical            | External                           | Moisture in outdoor lights                                  | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-41) |
+| 42 | Heating               | Heat Pump                          | Sand/water ingress in heat pump                             | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-42) |
+| 43 | Cleaning              | Paving/Stone Joints                | Debris/sand build-up                                        | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-43) |
+| 44 | Landscaping           | Rear Garden                        | Unfinished bottom garden                                    | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-44) |
+| 45 | Landscaping           | Side of House                      | Un-grassed area                                             | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-45) |
+| 46 | External              | Stream Fence                       | Missing fence capping                                       | 14-Jul-2025 | Resolved by User          | Low    | [View Details](#issue-46) |
+| 47 | External              | Rear Fence                         | Incomplete back garden fencing                              | 14-Jul-2025 | Resolved                  | Low    | [View Details](#issue-47) |
 | 48 | Drainage              | Ground-Level Brickwork             | Persistent damp at brick base                               | 14-Jul-2025 | Open                      | High   | [View Details](#issue-48) |
 | 49 | Joinery               | Windows                            | Window alignment/operation issues                           | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-49) |
 | 50 | Joinery               | Front Door                         | Scratched front door thresholds                             | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-50) |
 | 51 | Joinery               | Front Door                         | Front door interior trim gap                                | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-51) |
 | 52 | Joinery               | Bathrooms                          | Missing bathroom threshold strips                           | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-52) |
 | 53 | Joinery               | Garage Internal Door               | Incorrect garage door handle                                | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-53) |
-| 54 | Joinery               | Utility Room                       | Mismatched utility skirting                                 | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-54) |
+| 54 | Joinery               | Utility Room                       | Mismatched utility skirting                                 | 14-Jul-2025 | No Action Required        | Low    | [View Details](#issue-54) |
 | 55 | Joinery               | Wardrobes                          | Wardrobe misalignments/issues                               | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-55) |
 | 56 | Joinery               | Stairs                             | Stairs damage/finishing issues                              | 14-Jul-2025 | Open                      | High   | [View Details](#issue-56) |
-| 57 | Joinery               | Various Doors                      | Missing door furniture/stops                                | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-57) |
+| 57 | Joinery               | Various Doors                      | Missing door furniture/stops                                | 14-Jul-2025 | No Action Required        | Low    | [View Details](#issue-57) |
 | 58 | Finishing             | Understairs                        | Untrimmed understairs insulation                            | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-58) |
 | 59 | Finishing             | Various Rooms                      | Paint/ceiling damage                                        | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-59) |
 | 60 | Finishing             | Various                            | Plaster holes/damage                                        | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-60) |
@@ -72,9 +72,9 @@ and references to the original emails for traceability.
 | 62 | Plumbing              | Baths                              | Loose waterspout                                            | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-62) |
 | 63 | Plumbing              | Ensuite Shower                     | Slow shower drainage                                        | 14-Jul-2025 | Resolved by User          | Medium | [View Details](#issue-63) |
 | 64 | Electrical            | Doorbell                           | Exposed doorbell wires                                      | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-64) |
-| 65 | Electrical            | Ensuite                            | Ensuite light switch issue                                  | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-65) |
+| 65 | Electrical            | Ensuite                            | Ensuite light switch issue                                  | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-65) |
 | 66 | Electrical            | Office                             | Loose office socket                                         | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-66) |
-| 67 | Electrical            | Boiler Room                        | Poorly fitted boiler probe                                  | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-67) |
+| 67 | Electrical            | Boiler Room                        | Poorly fitted boiler probe                                  | 14-Jul-2025 | Resolved                  | Medium | [View Details](#issue-67) |
 | 68 | Kitchen               | Kitchen Island                     | Exposed island screw                                        | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-68) |
 | 69 | Kitchen               | Kitchen Island                     | Incomplete island side                                      | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-69) |
 | 70 | Kitchen               | Kitchen Floor                      | Adhesive residue on tiles                                   | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-70) |
@@ -123,10 +123,11 @@ requested.
 **Description:** Top floor toilet has a slow tank refill rate. Steel hanging poles under bidets have unclear function;
 clarification requested on whether they should be removed.  
 **Date Raised:** 27-Aug-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 19](#email-19), [Email 21](#email-21)  
-**Additional Notes:** User has requested supplier clarification for the bidet poles.
+**Additional Notes:** User has requested supplier clarification for the bidet poles. Plumber pulled the poles out and
+handed them to the user. he can be used to help remove the bidet if needed.
 
 ### Issue 4
 
@@ -168,7 +169,7 @@ will fit proper caps.
 **Status:** Resolved by User  
 **Impact:** Low  
 **Original Email:** [Email 3](#email-3)  
-**Additional Notes:** Highlighted as poor workmanship.
+**Additional Notes:** Highlighted as poor workmanship. Ordered new caps and will fit them.
 
 ### Issue 7
 
@@ -209,7 +210,8 @@ and leaks (e.g., downstairs toilet P-trap). No isolation valves as promised.
 **Status:** Open (Partial Resolution Planned)  
 **Impact:** High  
 **Original Email:** [Email 6](#email-6), [Email 10](#email-10), [Email 11](#email-11)  
-**Additional Notes:** User to replace taps; requests investigation of wider plumbing issues.
+**Additional Notes:** User to replace taps; requests investigation of wider plumbing issues. Taps ordered from blackburn
+plumbing supplies. Will fit myself. Please investigate the wider plumbing issues.
 
 ### Issue 10
 
@@ -290,7 +292,7 @@ materials for self-completion due to delays and security needs.
 **Status:** Open  
 **Impact:** Low  
 **Original Email:** [Email 10](#email-10)  
-**Additional Notes:** User mitigated further damage by closing plug.
+**Additional Notes:** User mitigated further damage by closing plug. New paint to be provided.
 
 ### Issue 16
 
@@ -326,10 +328,12 @@ materials for self-completion due to delays and security needs.
 **Location:** External  
 **Description:** Possible leak from mount; runoff not reaching soakaway, solution proposed.  
 **Date Raised:** 24-Jul-2025  
-**Status:** Open (Solution Proposed)  
+**Status:** Partially Resolved (Needs Stabilization)
 **Impact:** Medium  
 **Original Email:** [Email 13](#email-13), [Email 14](#email-14)  
-**Additional Notes:** Awaiting implementation.
+**Additional Notes:** Awaiting implementation. The runoff issue has been resolved by extending the soakaway area under
+the system. However, a rocking of the unit now looks to have been introduced on the mount which may need further
+attention.
 
 ### Issue 19
 
@@ -339,10 +343,11 @@ materials for self-completion due to delays and security needs.
 **Location:** Fireplace  
 **Description:** Request for compatible unit make/model to maintain warranty.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 13](#email-13)  
-**Additional Notes:** User seeks clarification for future upgrade.
+**Additional Notes:** User seeks clarification for future upgrade. Details found online for the existing
+unit: [Rosedale 3 Sided Electric Fire](https://endeavourfires.co.uk/product/rosedale-3-sided-electric-fire/)
 
 ### Issue 20
 
@@ -365,10 +370,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Top Bathroom  
 **Description:** Flush panel moves within wall space.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 15](#email-15)  
-**Additional Notes:** To be discussed with plumber.
+**Additional Notes:** To be discussed with plumber. Easy to pull of the face and tighten via plastic screws behind.
 
 ### Issue 22
 
@@ -381,7 +386,7 @@ materials for self-completion due to delays and security needs.
 **Status:** Resolved (Per Design)  
 **Impact:** Low  
 **Original Email:** [Email 16](#email-16)  
-**Additional Notes:** No further action needed.
+**Additional Notes:** No further action needed. Manufacturer confirmed this is normal for newer models.
 
 ### Issue 23
 
@@ -391,7 +396,7 @@ materials for self-completion due to delays and security needs.
 **Location:** Utility Room External Door  
 **Description:** Missing O-ring increases moisture ingress risk.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 17](#email-17)  
 **Additional Notes:** Discovered post-cleaning.
@@ -404,10 +409,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Main Bathroom  
 **Description:** Tile damaged by soldering heat/flux, causing rough, discolored surface.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 17](#email-17)  
-**Additional Notes:** Awaiting repair.
+**Additional Notes:** Awaiting repair. This can be removed using a sharp blade and cleaned with soap and water.
 
 ### Issue 25
 
@@ -417,10 +422,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Garage  
 **Description:** Painted nail/screw protrudes with no apparent purpose.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 17](#email-17)  
-**Additional Notes:** Needs confirmation of purpose.
+**Additional Notes:** Needs confirmation of purpose. Removed by user.
 
 ### Issue 26
 
@@ -443,10 +448,11 @@ materials for self-completion due to delays and security needs.
 **Location:** Master Ensuite  
 **Description:** Louder than other units, possibly due to wiring issue.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 17](#email-17)  
-**Additional Notes:** Requires electrical inspection.
+**Additional Notes:** Requires electrical inspection. Units can be programmed to run at lower speeds and different
+modes. User provided with training and instruction manual.
 
 ### Issue 28
 
@@ -469,7 +475,7 @@ materials for self-completion due to delays and security needs.
 **Location:** Garage  
 **Description:** Tightened, but plaster needs sand and paint.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Partially Resolved  
 **Impact:** Low  
 **Original Email:** [Email 17](#email-17)  
 **Additional Notes:** Minor finishing required.
@@ -482,10 +488,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Rear Windows/Doors  
 **Description:** Deep-rooted sand from jet washing; check warranty impact.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved by User
 **Impact:** Medium  
 **Original Email:** [Email 17](#email-17)  
-**Additional Notes:** User cleaned surface sand.
+**Additional Notes:** User cleaned surface sand. Warranty check pending.
 
 ### Issue 31
 
@@ -534,10 +540,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Lower Floors  
 **Description:** Visible black plastic when pressed, unlike top floor.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 19](#email-19)  
-**Additional Notes:** Needs finishing to match specification.
+**Additional Notes:** Needs finishing to match specification. Plumber highlighted different mechanism on lower floors.
 
 ### Issue 35
 
@@ -547,10 +553,11 @@ materials for self-completion due to delays and security needs.
 **Location:** Front Room  
 **Description:** Request for safe mounting advice with structural support and concealed cabling.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 19](#email-19)  
-**Additional Notes:** Awaiting contractor recommendation.
+**Additional Notes:** Awaiting contractor recommendation. Working drawing provided and user has sourced and fitted a
+suitable mount.
 
 ### Issue 36
 
@@ -573,10 +580,10 @@ materials for self-completion due to delays and security needs.
 **Location:** Balcony  
 **Description:** Excessive sand residue needs cleaning.  
 **Date Raised:** ~Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 19](#email-19)  
-**Additional Notes:** Linked to jet washing issues.
+**Additional Notes:** Linked to jet washing issues. User has cleaned the balcony floor.
 
 ### Issue 38
 
@@ -613,7 +620,7 @@ specialist inspection and rectification plan.
 **Location:** Utility Door  
 **Description:** Poor sealing caused water ingress; needs reinspection/replacement.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** High  
 **Original Email:** [Email 21](#email-21)  
 **Additional Notes:** Linked to jet washing issues.
@@ -626,10 +633,10 @@ specialist inspection and rectification plan.
 **Location:** External  
 **Description:** Water ingress from jet washing; needs drying and resealing.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Risk of corrosion or failure.
+**Additional Notes:** Risk of corrosion or failure. Electrician dried and resealed.
 
 ### Issue 42
 
@@ -639,10 +646,12 @@ specialist inspection and rectification plan.
 **Location:** Heat Pump  
 **Description:** Confirm no ingress; check performance and warranty.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Requires confirmation from Global Energy.
+**Additional Notes:** Requires confirmation from Global Energy. Electrician confirmed no water ingress; Global Energy
+remotely
+checked and found no issues.
 
 ### Issue 43
 
@@ -652,10 +661,10 @@ specialist inspection and rectification plan.
 **Location:** Paving/Stone Joints  
 **Description:** Heavy sand accumulation from jet washing.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Affects drainage and mechanical systems.
+**Additional Notes:** Affects drainage and mechanical systems. User has cleaned the paving and stone joints.
 
 ### Issue 44
 
@@ -665,10 +674,10 @@ specialist inspection and rectification plan.
 **Location:** Rear Garden  
 **Description:** Incomplete landscaping; surplus material to be reused.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Needs formal confirmation.
+**Additional Notes:** Needs formal confirmation. All completed to satisfaction.
 
 ### Issue 45
 
@@ -678,10 +687,10 @@ specialist inspection and rectification plan.
 **Location:** Side of House  
 **Description:** Area between garage and stream needs anti-slip grass mats.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Awaiting completion.
+**Additional Notes:** Awaiting completion. All completed to satisfaction.
 
 ### Issue 46
 
@@ -691,10 +700,11 @@ specialist inspection and rectification plan.
 **Location:** Stream Fence  
 **Description:** Timber capping missing for durability.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Affects fence longevity.
+**Additional Notes:** Affects fence longevity. User fitted new capping after contractor failed to provide an adequate
+solution.
 
 ### Issue 47
 
@@ -704,10 +714,10 @@ specialist inspection and rectification plan.
 **Location:** Rear Fence  
 **Description:** Frame needs fencing panels.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Awaiting completion.
+**Additional Notes:** Awaiting completion. All completed to satisfaction.
 
 ### Issue 48
 
@@ -795,14 +805,14 @@ specialist inspection and rectification plan.
 **Location:** Utility Room  
 **Description:** Skirting profiles don’t match on either side of door.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Needs standardization.
+**Additional Notes:** Needs standardization. No action required as per user.
 
 ### Issue 55
 
-#### Wardrobe Misalignments/Issues
+#### Wardrobe Misalignment's/Issues
 
 **Type:** Joinery  
 **Location:** Wardrobes  
@@ -939,10 +949,10 @@ in wall.
 **Location:** Ensuite  
 **Description:** Affects extractor fan rate; contradicts electrical advice.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Needs wiring check.
+**Additional Notes:** Needs wiring check. Electrician confirmed wiring is correct as per design and changed mode.
 
 ### Issue 66
 
@@ -952,10 +962,10 @@ in wall.
 **Location:** Office  
 **Description:** Faceplate loose.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Low  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Minor fix needed.
+**Additional Notes:** Minor fix needed. Electrician tightened the socket and showed how to do it.
 
 ### Issue 67
 
@@ -965,10 +975,10 @@ in wall.
 **Location:** Boiler Room  
 **Description:** Exposed conductors, held by insulation.  
 **Date Raised:** 14-Jul-2025  
-**Status:** Open  
+**Status:** Resolved  
 **Impact:** Medium  
 **Original Email:** [Email 21](#email-21)  
-**Additional Notes:** Safety concern.
+**Additional Notes:** Safety concern. Electrician refitted the probe correctly.
 
 ### Issue 68
 
