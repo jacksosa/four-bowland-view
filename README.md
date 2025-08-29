@@ -80,6 +80,7 @@ and references to the original emails for traceability.
 | 70 | Kitchen               | Kitchen Floor                      | Adhesive residue on tiles                                   | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-70) |
 | 71 | Kitchen               | Kitchen                            | Kickboard removal guidance                                  | 14-Jul-2025 | Open                      | Low    | [View Details](#issue-71) |
 | 72 | Finishing             | Balcony                            | Inconsistent balcony finish                                 | 14-Jul-2025 | Open                      | Medium | [View Details](#issue-72) |
+| 73 | Insulation            | Roof Space – Ridge                 | Missing PIR insulation at ridge, loft roll used instead     | 29-Aug-2025 | Open                      | High   | [View Details](#issue-73) |
 
 ## Issue Details
 
@@ -1034,6 +1035,24 @@ in wall.
 **Original Email:** [Email 21](#email-21)  
 **Additional Notes:** Needs correction to match specification.
 
+### Issue 73
+
+#### Missing Warm Roof Insulation at Ridge
+
+**Type:** Insulation  
+**Location:** Roof Space – Ridge  
+**Description:** No PIR insulation installed across the ridge “V” section, extending the full width of the house and
+approximately 1 meter down either side, breaking the continuous insulation envelope required for the warm roof
+specification. Loft roll insulation appears to be used instead, which does not meet the agreed 100 mm PIR standard,
+potentially undermining thermal performance and PIV system operation.  
+**Date Raised:** 29-Aug-2025  
+**Status:** Open  
+**Impact:** High  
+**Original Email:** [Email 22](#email-22)  
+**Additional Notes:** User requests confirmation of compliance with warm roof specification, approved construction
+details, U-value/SAP calculations, and a plan to install PIR insulation if non-compliant. Compensation may be sought for
+disruption and potential non-compliance with the £3,200 warm roof upgrade.
+
 ## Original Emails
 
 <a name="email-1"></a>
@@ -1718,3 +1737,47 @@ in wall.
     > Regards,  
     > Sam
 
+### Email 22
+
+#### Clarification Required – Missing Warm Roof Insulation at Ridge
+
+**Date:** 29-Aug-2025  
+**To:** Glen & Stephen  
+**Subject:** Clarification Required – Missing Warm Roof Insulation at Ridge  
+**Content:**
+> Dear Glen & Stephen,  
+> During recent inspection of the roof space in my house, I noticed that no PIR insulation has been installed across the
+> ridge “V” section at the top of the roof. The uninsulated area extends the full width of the house and approximately 1
+> metre down either side, which is a significant gap in coverage.  
+> As the specification and extras I paid for clearly state a warm roof system with 100 mm PIR below rafters (126 m²),
+> the roof should have been constructed with a continuous insulation envelope across the entire pitched roof, including
+> right up to and across the ridge. This is the accepted industry standard for a warm roof build-up. The omission of PIR
+> boards at the ridge not only breaks this envelope but also suggests a departure from good workmanship.  
+> On closer inspection it appears loft roll insulation has been fitted below the ridge in place of PIR boards. Please
+> confirm if this is the case. My understanding is that loft roll is not an acceptable substitute for the specified 100
+> mm
+> PIR, as it provides lower thermal resistance, does not form a continuous vapour control layer, and undermines both the
+> warm roof strategy and the operation of the PIV system. This would therefore not meet the agreed specification.  
+> Given the roof construction, I very much doubt that any continuous insulation layer could have been installed above
+> the rafters at ridge level, as this would interfere directly with the roof tiles. Please therefore confirm on what
+> basis
+> the omission of PIR boards at the ridge was allowed, and how compliance with the warm roof specification was
+> supposedly
+> achieved.  
+> Please can you:
+> 1. Provide the approved roof/ridge construction detail and U-value/SAP calculations that show how this build-up
+     achieves compliance.
+> 2. Clarify whether this installation is in line with the agreed specification, or if an omission/substitution has
+     occurred.
+> 3. If incomplete or non-compliant, confirm when PIR insulation will be installed across the ridge to maintain
+     continuity and performance.  
+     > As this relates directly to the £3,200 paid for the warm roof upgrade, I must also reserve my position regarding
+     recovery of this cost should it turn out that the specification has not been met.  
+     > While I accept minor snagging is part of handover, this issue appears to be a major omission from the agreed
+     specification, rather than a routine defect. As such, any time and disruption required to investigate, document,
+     and coordinate the correction of this work should not have been necessary and I consider it reasonable to seek
+     compensation for the impact this has caused.  
+     > I have taken photos of the exposed area which I can share if useful. I would appreciate your clarification as
+     soon as possible.  
+     > Best regards,  
+     > Samuel Jackson
